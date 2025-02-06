@@ -26,8 +26,8 @@ header > p, nav{
 header a{
     text-decoration: none;
     color: white;
+    padding: 5px;
     margin-left: 25px;
-    background-color:  ;
 }
 body{
     background-color: rgb(85, 137, 119);
@@ -41,7 +41,7 @@ body{
     height: max-content;
 }
 
-.about h1{
+.about h3{
     text-align: center;
     margin-bottom: 20px;
     color: white;
